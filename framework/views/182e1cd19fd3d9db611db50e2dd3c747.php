@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\cameraZone\cameraShop\resources\views\dashboard.blade.php ENDPATH**/ ?>
